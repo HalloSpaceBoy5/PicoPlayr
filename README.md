@@ -1,2 +1,4 @@
 # PicoPlayr
-Source code for the PicoPlayr music player
+A Pi Pico based music player
+
+
